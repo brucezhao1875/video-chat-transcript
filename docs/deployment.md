@@ -67,9 +67,9 @@ graph TD
 
 ## 9. 团队协作与平台账号管理
 
-- **GitHub 仓库**：项目代码托管于 [GitHub Organization/仓库名]，团队成员需通过邀请加入，按需分配权限。
-- **Vercel 部署**：前端项目部署在 Vercel Team 下，团队成员可协作管理部署、环境变量、域名等。
-- **Dify 平台**：知识库与工作流管理在 Dify 平台团队/组织下，成员可协作管理知识库、工作流配置等。
+- **GitHub 仓库**：项目代码托管于 [https://github.com/brucezhao1875/video-chat-transcript](https://github.com/brucezhao1875/video-chat-transcript)，需将团队成员邀请为协作者以便协作开发和管理。
+- **Vercel 部署**：前端项目部署在 [https://vercel.com/zhaochaohuas-projects/video-chat-transcript](https://vercel.com/zhaochaohuas-projects/video-chat-transcript)。当前为 Vercel Hobby 版，无法创建团队（Team），仅支持个人账号下的协作，团队协作和权限管理有限。
+- **Dify 平台**：当前使用 Dify 免费模式，仅支持个人模式，无法实现团队成员协作。现有 cloud.dify.ai 登录账号为 zhaochaohua@gmail.com 创建，后续将新申请一个公共开发用账号，便于团队成员共同管理知识库和流程。
 
 > 如需加入团队、获取权限或有账号安全相关问题，请联系项目负责人。 
 
