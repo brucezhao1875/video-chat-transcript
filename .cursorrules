@@ -43,3 +43,8 @@
 - 遵守团队内部沟通约定（如微信群、定期会议等）
 
 # 如有疑问请联系项目负责人 
+
+[Commit Message Rules]
+- All commit messages must be written in English.
+- Use the Conventional Commits format (e.g., feat, fix, docs, chore, etc.).
+- Example: docs: update deployment documentation for team collaboration 
