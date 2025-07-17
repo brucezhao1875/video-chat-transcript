@@ -369,7 +369,6 @@ const Welcome: FC<IWelcomeProps> = ({
         {/* foot */}
         {!hasSetInputs && (
           <div className='mt-4 flex justify-between items-center h-8 text-xs text-gray-400'>
-
             {siteInfo.privacy_policy
               ? <div>{t('app.chat.privacyPolicyLeft')}
                 <a
@@ -380,10 +379,7 @@ const Welcome: FC<IWelcomeProps> = ({
               </div>
               : <div>
               </div>}
-            <a className='flex items-center pr-3 space-x-3' href="https://dify.ai/" target="_blank">
-              <span className='uppercase'>{t('app.chat.powerBy')}</span>
-              <FootLogo />
-            </a>
+            {/* 移除 Dify 相关内容 */}
           </div>
         )}
       </div>
